@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\Board.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\ComputerPlayer.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\Field.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\Game.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\GameView.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\HumanPlayer.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\MinMaxPlayer.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\Player.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\Position.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\RandomPlayer.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+	</ItemGroup>
+	<ItemGroup>
+		<Filter Include="src">
+			<UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+		</Filter>
+	</ItemGroup>
+	<ItemGroup>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\Board.hpp">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\ComputerPlayer.hpp">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\Field.hpp">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\Game.hpp">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\GameView.hpp">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\HumanPlayer.hpp">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\MinMaxPlayer.hpp">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\Player.hpp">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\Position.hpp">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\RandomPlayer.hpp">
+			<Filter>src</Filter>
+		</ClInclude>
+	</ItemGroup>
+	<ItemGroup>
+		<ResourceCompile Include="icon.rc" />
+	</ItemGroup>
+</Project>
