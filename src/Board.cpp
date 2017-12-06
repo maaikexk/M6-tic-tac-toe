@@ -90,6 +90,9 @@ bool Board::isWinner(Field field) const {
     return false;
 }
 
+
+
+
 Position Board::getPositionFromIndex(int index) const {
     return Position(index % GRID_SIZE, (char)(index / GRID_SIZE));
 }
