@@ -22,7 +22,7 @@ public:
 private:
     // return the maximum possible score given a board and the symbol(Field) of a player
     // note: it is suggested to this method for your own algorithm, but other implementations are possible as well
-    int getMinMaxScore(Board const&, Field);
+    int getMinMaxScore(Board, Field);
 };
 
 #endif /* MinMaxPlayer_hpp */

@@ -9,6 +9,7 @@
 #include "GameView.hpp"
 
 #include "HumanPlayer.hpp"
+#include "MinMaxPlayer.hpp"
 
 #define DEFAULT_FONT "manteka.ttf"
 #define DEFAULT_FONT_SIZE 64
