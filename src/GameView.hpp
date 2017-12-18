@@ -39,7 +39,7 @@ private:
     Game& game_;
     
     // font used to render text in the game view
-    ofTrueTypeFont font_;
+   ofTrueTypeFont font_;
     
     // dimensions of the game view
     int x_ = 0, y_ = 0;
