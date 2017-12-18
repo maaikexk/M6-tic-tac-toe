@@ -1,7 +1,4 @@
-﻿  MinMaxPlayer.cpp
-src\MinMaxPlayer.cpp(20): warning C4018: '<': signed/unsigned mismatch
-src\MinMaxPlayer.cpp(48): warning C4018: '<': signed/unsigned mismatch
-  M6 tic tac toe.vcxproj -> C:\Users\Maaike Keurhorst\Documents\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myApps\M6 tic tac toe\bin\M6 tic tac toe_debug.exe
+﻿  M6 tic tac toe.vcxproj -> C:\Users\Maaike Keurhorst\Documents\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myApps\M6 tic tac toe\bin\M6 tic tac toe_debug.exe
   M6 tic tac toe.vcxproj -> bin\M6 tic tac toe_debug.pdb (Full PDB)
   
   	                   9	C:\Users\Maaike Keurhorst\Documents\of_v0.9.8_vs_release\of_v0.9.8_vs_release\export\vs\Win32\
